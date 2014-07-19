@@ -2,7 +2,9 @@ egret-spritesheet
 ==========
 
 2014/7/19
+
 https://github.com/egret-labs/egret-core/wiki/Egret-SpriteSheet-Specification
+
 以egret提供的文档，重新修改了脚本。使其符合最新的egret-spritesheet。
 
 
