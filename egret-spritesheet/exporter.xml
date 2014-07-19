@@ -32,7 +32,7 @@
     </files>
 
     <!-- target framework supports trimming -->
-    <supportsTrimming>no</supportsTrimming>
+    <supportsTrimming>yes</supportsTrimming>
     
     <!-- target framework supports rotation -->
     <supportsRotation>no</supportsRotation>
